@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-dotnettools.vscode-dotnet-runtime",
+        "mikestead.dotenv",
+        "github.vscode-github-actions",
+        "vector-of-bool.gitflow",
+        "streetsidesoftware.code-spell-checker"
+    ]
+}
